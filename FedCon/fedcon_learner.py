@@ -10,7 +10,7 @@ import pandas as pd
 import os
 import heapq
 from copy import deepcopy
-from fedrsm_client import Client, model_name, dataset_name
+from fedcon_client import Client, model_name, dataset_name
 from collections import Counter
 from models.vision import LeNet, ResNet, ResNet18, weights_init, ConvNet,LeNet_TS
 import random
