@@ -1,5 +1,5 @@
 # FedCon
-If you have any other questions, you can contact 3061048858@qq.com Thank you
+If you have any other questions, you can contact 3061048858@qq.com Thank you!
 ## INTRODUCTION
 This is the Pytorch code of the paper entitled "A Model Consistency-based Mechanism to Safeguard Federated Learning in Vulnerable and Heterogeneous IoT Environments".  
   
