@@ -1,8 +1,8 @@
 import numpy as np
 import torch
 import pandas as pd
-from fedrsm_learner import Metanet,model_name
-from fedrsm_client import dataset_name
+from fedcon_learner import Metanet,model_name
+from fedcon_client import dataset_name
 import time
 import os
 import warnings
