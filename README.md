@@ -20,7 +20,7 @@ Figure 1. The overview of FedCon consisting of A) Local Training Phase, B) Malic
 </div>
 Figure 2. The detailed workflow of Malicious Clients Identification in FedCon, including A) Voting Matrix Calculation, and B) Model Voting Procedure.  
 
-##  RESULT
+##  PAPER RESULTS
 We conducted a holistic evaluation based on three standard datasets, FedCon can outperform five state-of-the-art baselines. Under the scenarios with high data heterogeneity level and malicious client rate, it can consistently maintain a stable and robust model performance as well as a low and rare attack success rate to secure the collaborative and privacy-preserving model learning process. 
 
 <div align="center">
